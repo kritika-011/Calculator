@@ -27,7 +27,7 @@
     box-shadow: -8px -8px 15px rgba(69, 2, 2, 0.186), 5px 5px 15px rgba(0, 0, 0, 0.2) ;
     background-color: transparent;
     font-size: 20px;
-    color: white;
+    color: rgb(10, 10, 10);
     cursor: pointer;
     margin: 10px;
 }
@@ -36,6 +36,7 @@ form .display{
 justify-content: flex-end;
    margin:18px 0;
    border: 2px solid white;
+   background-color: white;
 
 }
 form .display input{
